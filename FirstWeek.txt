@@ -1,0 +1,3 @@
+The first week of Code Skools. Monday was insane; no one really understood what was going on.
+But Tuesday through Thursday was pretty epic. I learned about the internet, data types,
+and even how to use the CLI. I even made a game with only a few bugs.
