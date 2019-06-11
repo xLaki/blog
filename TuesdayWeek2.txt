@@ -1,0 +1,3 @@
+Today we learned how to code some more aspects of HTML, such as tables,
+lists, and various inputs such as text, radio, and checkbox. We also began
+our portfolio site project, which I am very excited for.
